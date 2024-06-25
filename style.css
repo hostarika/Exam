@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+.tyu{
+    border-radius: 15px;
+    color: red;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 2px solid;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.mujik{
+    display: flex;
+    justify-content: space-between;
+    background-image: url(./image\ 4.png);
+    background-repeat: no-repeat;
+    
+}
+.tya{
+    color:white;
+    background-color: red;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 2px solid;
+    width: 300px;
+    border-radius: 15px;
+}
+.image{
+
+}
+.butt{
+    width: Hug (189px)px;
+height: Hug (47px)px;
+top: 367px;
+left: 170px;
+padding: 12px 24px 12px 24px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+background: #DE2E54CC;
+
+margin-top: 48.91px;
+
+
+
+
+}
+h2{
+    text-align: center;
+}
+.section-two-top{
+    display: flex;
+    justify-content: space-around;
+}
+.top{
+    
+}
+.section-two-botton{
+display: flex;
+justify-content: space-around;
+}
+.sui{
+    display: flex;
+    justify-content: space-between;
+}
+.end{
+    background-color: aqua;
+    padding: 60px;
+}
+.rr{
+    width: 450px;
+    height: 40px;
+    padding-left: 50px;
+}
+.e1{
+    padding-top: 20px;
+}
+.e2{
+    padding-top: 20px;
+}
+.e3{
+    padding-top: 20px;
+
+}
+.e4{
+    padding-top: 20px;
+}
+.jh{
+    width: 450px;
+    height: 40px;
+    background: rgba(56, 204, 139, 1);
+
+}
+.hhh{
+    padding-top: 20px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    background-color: black;
+}
